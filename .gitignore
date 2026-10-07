@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+backend/.venv/
+backend/.env
+backend/!backend/.env.example
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/*.log
+frontend/*.err.log
+
+# 运行痕迹
+*.pid
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db

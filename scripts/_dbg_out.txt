@@ -1,0 +1,5 @@
+﻿证件原文:
+  id=20 title=[???-??] docno=[ijOZfgiOIdqhyvLoOMTbjcDvPk3XAN8JMK8jcjxQMnnrUGMsT9omnF/Y37U=] document_type_id=2
+  id=21 title=[???-??] docno=[] document_type_id=None
+  id=22 title=[??-??] docno=[] document_type_id=3
+  id=23 title=[???-??] docno=[] document_type_id=None
